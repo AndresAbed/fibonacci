@@ -4,9 +4,9 @@ Rails version: 6.0.3.6
 Params
 ```
 {
-    "params": {
-        "size": 20,
-	    "n": 3
-    }
+  "params": {
+    "size": 10,
+    "n": 3
+  }
 }
 ```
